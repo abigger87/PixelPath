@@ -45,7 +45,7 @@
     background-position: center top;
     background-attachment: fixed;
 }
-.theorigins {
+#theorigins {
    background-image: url("images/origins.jpg");
    height: auto;
    width:100%;
